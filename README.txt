@@ -7,3 +7,4 @@ devenir plus qu'important.
 L'objectif principal est de mettre en place et gérer les premiers événements de
 ce dépôt git.
 Les tâches techniques à effectuer sont dans le fichier TODO.txt
+Le site est disponible à l'adresse http://www.resanet.com/resaroute/
